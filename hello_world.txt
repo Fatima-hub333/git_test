@@ -1,1 +1,1 @@
-"Hi, its my first trial"
+"Hello Odin"! Its my first Github Repo.
